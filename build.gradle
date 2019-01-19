@@ -1,0 +1,75 @@
+buildscript {
+	ext {
+		springBootVersion = '2.1.2.RELEASE'
+	}
+	repositories {
+		mavenCentral()
+	}
+
+	dependencies {
+		classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+		classpath 'com.google.cloud.tools:appengine-gradle-plugin:1.3.3'
+
+	}
+}
+
+apply plugin: 'java'
+apply plugin: 'org.springframework.boot'
+apply plugin: 'io.spring.dependency-management'
+apply plugin: 'war'
+apply plugin: 'com.google.cloud.tools.appengine'
+
+
+group = 'com.lowLevelFrameworkTest'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '1.8'
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+
+//	appengineSdk 'com.google.appengine:appengine-java-sdk:1.9.48'
+	testCompile group: 'junit', name: 'junit', version: '4.11'
+
+	//
+	compile 'com.google.appengine:appengine-api-1.0-sdk:+'  // Latest App Engine Api's
+	providedCompile 'javax.servlet:javax.servlet-api:3.1.0'
+
+	compile 'jstl:jstl:1.2'
+
+// Add your dependencies here.
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+//  compile 'com.google.cloud:google-cloud:+'   // Latest Cloud API's http://googlecloudplatform.github.io/google-cloud-java
+
+	testCompile 'junit:junit:4.12'
+//	testCompile 'com.google.truth:truth:0.33'
+//	testCompile 'org.mockito:mockito-all:1.10.19'
+
+	testCompile 'com.google.appengine:appengine-testing:+'
+	testCompile 'com.google.appengine:appengine-api-stubs:+'
+	testCompile 'com.google.appengine:appengine-tools-sdk:+'
+
+}
+
+//appengine {
+//	httpPort = 8080
+//	downloadSdk = true
+//
+//	appcfg {
+//		oauth2 = true
+//	}
+//	jvmFlags = ['-Xdebug',
+//				'-agentlib:jdwp=transport=dt_socket,address=8079,server=y,suspend=n',
+//				'-Dappengine.fullscan.seconds=3',
+//				"-Ddatastore.backing_store=$projectDir/appengine-generated/local_db.bin",
+//				"-Ddatastore.generated_dir=$projectDir/appengine-generated",
+//				"-Dblobstore.backing_store=$projectDir/appengine-generated/blob"
+//	]
+//}
+
+sourceCompatibility = 1.8     // App Engine Flexible uses Java 8
+targetCompatibility = 1.8
+
