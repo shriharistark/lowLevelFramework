@@ -39,6 +39,8 @@ dependencies {
 
 	compile 'jstl:jstl:1.2'
 
+	compile 'com.google.cloud:google-cloud-datastore:1.59.0'
+
 // Add your dependencies here.
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
