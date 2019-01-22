@@ -3,6 +3,7 @@ package com.lowLevelFrameworkTest.lowLevelFrameworkTest.Model;
 import com.google.appengine.api.datastore.Entity;
 import com.google.appengine.api.datastore.KeyFactory;
 import com.lowLevelFrameworkTest.lowLevelFrameworkTest.LowLevelORM.OmegaAnnotations.OmegaEntity;
+import com.lowLevelFrameworkTest.lowLevelFrameworkTest.LowLevelORM.OmegaAnnotations.OmegaID;
 import com.lowLevelFrameworkTest.lowLevelFrameworkTest.LowLevelORM.OmegaAnnotations.OmegaIndex;
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
@@ -14,6 +15,7 @@ import java.util.UUID;
 @OmegaEntity
 public class Contact {
 
+    @OmegaID
     private String ID;
 
     @OmegaIndex

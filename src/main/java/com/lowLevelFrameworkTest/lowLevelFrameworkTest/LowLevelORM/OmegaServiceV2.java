@@ -18,8 +18,9 @@ public class OmegaServiceV2 {
     public <T> boolean put(T object){
 
         try {
-            FullEntity.Builder<IncompleteKey> entity = Entity.newBuilder().set("ok",true);
-            entity.
+//            FullEntity.Builder<IncompleteKey> entity = Entity.newBuilder().set("ok",true);
+            FullEntity entity = omega.buildEntityFromPojov2(object);
+            datastore.put(entity);
 
             if (object.getClass().isAnnotationPresent((OmegaEntity.class))) {
 

@@ -2,41 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a266cf-3eb4-40ef-b92c-71b16b6a8dbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Controller/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileContent/fileContent.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/lowLevelFrameworkTest_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/lowLevelFrameworkTest_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/lowLevelFrameworkTest_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/lowLevelFrameworkTest_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelFrameworkTestApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelFrameworkTestApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/lowLevelFrameworkTest-0.0.1-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/lowLevelFrameworkTest-0.0.1-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.lowLevelFrameworkTest.lowLevelFrameworkTest.LowLevelFrameworkTestApplicationTests.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.lowLevelFrameworkTest.lowLevelFrameworkTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.lowLevelFrameworkTest.lowLevelFrameworkTest.LowLevelFrameworkTestApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/bootWar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/bootWar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelFrameworkTestApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelFrameworkTestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Utils/LowLevelFrameworkTestApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/appengine-web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/appengine-web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Controller/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Controller/ContactController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/Omega.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/Omega.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaAnnotations/OmegaIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaAnnotations/OmegaIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServiceV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServiceV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Model/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Model/Contact.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -64,14 +35,15 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="30" />
           <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="85" />
-          <entry key="JAVA" value="7745" />
+          <entry key="JAVA" value="10535" />
+          <entry key="PLAIN_TEXT" value="13" />
           <entry key="XML" value="40" />
         </counts>
       </usages-collector>
@@ -80,10 +52,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Utils/ServletInitializer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/Omega.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="290">
+              <caret line="72" column="58" lean-forward="true" selection-start-line="72" selection-start-column="58" selection-end-line="72" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,10 +64,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/Omega.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServicev1/Abstract/OmegaDatastoreServiceHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="127" column="59" selection-start-line="127" selection-start-column="59" selection-end-line="127" selection-end-column="59" />
+            <state relative-caret-position="135">
+              <caret line="9" column="80" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,11 +75,46 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/ObjectCast.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServicev1/Implementation/DatastoreService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="127">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#742#743#0" expanded="true" />
+                <element signature="e#886#887#0" expanded="true" />
+                <element signature="e#913#914#0" expanded="true" />
+                <element signature="e#965#966#0" expanded="true" />
+                <element signature="e#993#994#0" expanded="true" />
+                <element signature="e#1052#1053#0" expanded="true" />
+                <element signature="e#1080#1081#0" expanded="true" />
+                <element signature="e#1139#1140#0" expanded="true" />
+                <element signature="e#1166#1167#0" expanded="true" />
+                <element signature="e#1226#1227#0" expanded="true" />
+                <element signature="e#1253#1254#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServicev1/Implementation/DatastoreServiceHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1902#1903#0" expanded="true" />
+                <element signature="e#1929#1930#0" expanded="true" />
+                <element signature="e#2004#2005#0" expanded="true" />
+                <element signature="e#2031#2032#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="72" column="48" selection-start-line="72" selection-start-column="48" selection-end-line="72" selection-end-column="48" />
+            <state>
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#366#367#0" expanded="true" />
@@ -127,72 +134,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServiceV2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServicev1/Abstract/OmegaDatastoreService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaAnnotations/OmegaEntity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaAnnotations/OmegaIndex.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="47" selection-start-column="47" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Model/Contact.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#780#781#0" expanded="true" />
-                <element signature="e#808#809#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Controller/ContactController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="87" column="55" lean-forward="true" selection-start-line="87" selection-start-column="55" selection-end-line="87" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Utils/Util.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+            <state relative-caret-position="210">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -205,11 +150,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>object</find>
+      <find>canoni</find>
+    </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
@@ -634,17 +585,26 @@
         <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Controller/Contact.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Utils/Util.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelFrameworkTestApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaAnnotations/OmegaIndex.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaAnnotations/OmegaEntity.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Utils/LowLevelFrameworkTestApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Utils/ServletInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Controller/ContactController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Model/Contact.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServiceV2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/Omega.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/ObjectCast.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServicev1/OmegaDatastoreService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServicev1/OmegaDatastoreServiceHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServicev1/Abstract/OmegaDatastoreService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServicev1/Implementation/DatastoreService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaAnnotations/OmegaIndex.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaAnnotations/OmegaID.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Model/Contact.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Controller/ContactController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServiceV2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaException/EntityNotRegisteredException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaException/EntityAlreadyRegisteredException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServicev1/Abstract/OmegaDatastoreServiceHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/Omega.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServicev1/Implementation/DatastoreServiceHelper.java" />
       </list>
     </option>
   </component>
@@ -701,15 +661,6 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="lowLevelFrameworkTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lowLevelFrameworkTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lowLevelFrameworkTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lowLevelFrameworkTest" type="462c0819:PsiDirectoryNode" />
               <item name="LowLevelORM" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -720,7 +671,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="lowLevelFrameworkTest" type="462c0819:PsiDirectoryNode" />
               <item name="LowLevelORM" type="462c0819:PsiDirectoryNode" />
-              <item name="OmegaAnnotations" type="462c0819:PsiDirectoryNode" />
+              <item name="OmegaServicev1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lowLevelFrameworkTest" type="b2602c69:ProjectViewProjectNode" />
@@ -729,22 +680,18 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="lowLevelFrameworkTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+              <item name="LowLevelORM" type="462c0819:PsiDirectoryNode" />
+              <item name="OmegaServicev1" type="462c0819:PsiDirectoryNode" />
+              <item name="Implementation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lowLevelFrameworkTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="lowLevelFrameworkTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lowLevelFrameworkTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lowLevelFrameworkTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lowLevelFrameworkTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -824,7 +771,7 @@
     <frame x="8" y="32" width="1260" height="733" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536946" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2536946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -910,10 +857,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/ObjectCast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServicev1/Abstract/Index.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaAnnotations/OmegaIndex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="47" selection-start-column="47" selection-end-column="47" />
+        <state relative-caret-position="105">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaAnnotations/OmegaID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -930,22 +901,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Model/Contact.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#780#781#0" expanded="true" />
-            <element signature="e#808#809#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Controller/ContactController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="87" column="55" lean-forward="true" selection-start-line="87" selection-start-column="55" selection-end-line="87" selection-end-column="55" />
+        <state relative-caret-position="192">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -954,8 +913,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServiceV2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="203">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -964,8 +923,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="72" column="48" selection-start-line="72" selection-start-column="48" selection-end-line="72" selection-end-column="48" />
+        <state>
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#366#367#0" expanded="true" />
@@ -974,20 +933,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/Omega.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaException/EntityNotRegisteredException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="127" column="59" selection-start-line="127" selection-start-column="59" selection-end-line="127" selection-end-column="59" />
+        <state relative-caret-position="60">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaException/EntityAlreadyRegisteredException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="61" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/Model/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServicev1/Abstract/OmegaDatastoreService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/ObjectCast.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServicev1/Abstract/OmegaDatastoreServiceHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="135">
+          <caret line="9" column="80" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/Omega.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="72" column="58" lean-forward="true" selection-start-line="72" selection-start-column="58" selection-end-line="72" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServicev1/Implementation/DatastoreService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#965#966#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1052#1053#0" expanded="true" />
+            <element signature="e#1080#1081#0" expanded="true" />
+            <element signature="e#1139#1140#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1226#1227#0" expanded="true" />
+            <element signature="e#1253#1254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lowLevelFrameworkTest/lowLevelFrameworkTest/LowLevelORM/OmegaServicev1/Implementation/DatastoreServiceHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1902#1903#0" expanded="true" />
+            <element signature="e#1929#1930#0" expanded="true" />
+            <element signature="e#2004#2005#0" expanded="true" />
+            <element signature="e#2031#2032#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
