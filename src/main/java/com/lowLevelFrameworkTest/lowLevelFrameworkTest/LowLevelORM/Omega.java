@@ -60,7 +60,6 @@ public class Omega {
     }
 
     private static List<Field> getFieldsFor(Class classEntity) throws EntityNotRegisteredException{
-        System.out.println("ll");
         if(mapper == null){
             System.out.println("The mapper is not yet called or initiated!");
         }
